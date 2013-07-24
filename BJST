@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var BJST = require('./lib/StrategyTrainerCLI');
+
+var bjst = new BJST("european");
+bjst.start();
