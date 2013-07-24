@@ -17,7 +17,7 @@ Installation
 
 3. Play
 
-Note: As of now, this trainer uses the strategy for the followinf rules :
+Note: As of now, this trainer uses the strategy for the following rules :
 * European BlackJack  (no hole cards)
 * S17
 * Double on any
